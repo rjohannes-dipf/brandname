@@ -1,0 +1,16 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+#img-logo {
+    max-height: 32px;
+    width: auto;
+}
+
+#text-logo {
+    margin-left: .75rem;
+    font-weight: 700;
+    color: inherit;
+    white-space: nowrap;
+}
