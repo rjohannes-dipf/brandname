@@ -2,11 +2,11 @@
     "id": "brandname",
     "name": "Brand Name beside Logo",
     "description": "Displays the application name beside the HumHub logo.",
-    "version": "2.0.0",
+    "version": "v2.0.0",
     "authors": [
         {
             "name": "Roland Johannes",
-            "homepage": "https://github.com/maxmustermann"
+            "homepage": "https://github.com/rjohannes-dipf/brandname"
         }
     ],
 
